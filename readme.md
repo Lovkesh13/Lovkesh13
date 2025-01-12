@@ -1,20 +1,20 @@
 <!-- [![@Lovkesh13's Holopin board](https://holopin.me/Lovkesh13)](https://holopin.io/@Lovkesh13) -->
 <h1 align="center">Hi 👋, I'm Lovkesh Barowalia</h1>
-<h3 align="center">A passionate frontend developer from India and currently Pursuing a Bachelor's in Information Technology. As of now, I am learning Data Structures and Algorithms as well as trying out my hands in Linux and Web Development, learning through building projects.</h3>
+<h3 align="center">A passionate web developer from India, currently Pursuing a Bachelor's in Information Technology. As of now, I am learning Data Structures and Algorithms as well as trying out my hands in Linux and Web Development, learning through building projects.</h3>
 <img aling="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114e6ab9e152d0b423e133bd9233aac7048cfecb20&rid=giphy.gif&ct=g"
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Lovkesh13&label=Profile%20views&color=0e75b6&style=flat" alt="Lovkesh13" /> </p>
 
 
-- 🔭 I’m currently working on **Fullstack Project**
+- 🔭 I’m currently working on a **Fullstack Project**
 
-- 🌱 I’m currently learning **backend, React, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **React, threeJS, Data Structures and Algorithms.**
 
 - 👨‍💻 All of my projects are available at [Lovkesh13](https://github.com/Lovkesh13?tab=repositories)
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **lovkeshbarowalia@gmail.com
+- 📫 How to reach me **lovkeshbarowalia@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
