@@ -5,88 +5,21 @@
 
 ---
 
-### 🧠 About Me
+# 💫 About Me:
+🔭 Currently building: an AI-powered sound classifying system using Deep Learning  & refining Imagify, my full-stack image generator app<br>🌱 Exploring: React, Node.js, TensorFlow, LibROSA, and DSA<br>🧑‍💻 I enjoy building real-world projects and participating in hackathons<br>🤝 Open to collaboration on Open Source and real-world web/AI projects<br>📫 Reach me at: lovkeshbarowalia@gmail.com<br>🚀 Projects: My GitHub Repositories
 
-<table>
-  <tr>
-    <td>
 
-- 🔭 Currently building: **Imagify** – an AI-powered image generation web app  
-- 🌱 Exploring: **React**, **Node.js**, **TensorFlow**, **LibROSA**, and **DSA**  
-- 🧑‍💻 I enjoy building real-world projects and participating in hackathons  
-- 🤝 Open to collaboration on **Open Source** and real-world web/AI projects  
-- 📫 Reach me at: **lovkeshbarowalia@gmail.com**  
-- 🚀 Projects: [My GitHub Repositories](https://github.com/Lovkesh13?tab=repositories)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lovkesh13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lovkesh13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lovkesh13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</td>
-<td align="right">
-  <img alt="Coding" width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114e6ab9e152d0b423e133bd9233aac7048cfecb20&rid=giphy.gif&ct=g" />
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Lovkesh13&label=Profile%20views&color=0e75b6&style=flat" alt="Lovkesh13" />
-</td>
-  </tr>
-</table>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Lovkesh13&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Lovkesh13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">🛠️ Tech Stack</h3>
-
-<!-- Frontend -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-</p>
-
-<!-- Backend -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" style="background:white; padding:4px; border-radius:6px;" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-</p>
-
-<!-- AI/ML -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" style="background:white; padding:4px; border-radius:6px;" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/>
- <img src="https://img.icons8.com/ios-glyphs/30/000000/audio-wave--v1.png" height="36" alt="LibROSA" title="LibROSA" style="background-color:white; border-radius:6px; padding:3px;"/>
-</p>
-
-<!-- Tools -->
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="NPM"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🔸 [Imagify – AI Image Generator](https://imagify-frontend-itws.onrender.com/)
-- Built using **React.js**, **Node.js**, **MongoDB**, and **CLIPDrop API**
-- Features **JWT auth**, **credit system**, **Razorpay integration**, and a mobile-first design  
-- 📂 [GitHub Repo](https://github.com/Lovkesh13/imagify)
-
-#### 🔸 [Sudoku Solver](https://sudoku-solver-lovkesh-kartik.netlify.app/)
-- Solves puzzles using a recursive backtracking algorithm in JavaScript
-- Features a **real-time UI**, instant validation, and responsive layout  
-- 📂 [GitHub Repo](https://github.com/Lovkesh13/Sudoku_solver)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lovkesh13&show_icons=true&theme=default" alt="Lovkesh's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lovkesh13&layout=compact&langs_count=8" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lovkesh13" alt="GitHub Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
