@@ -4,7 +4,8 @@
 <h3 align="left">I am an aspiring Software Engineer with a solid foundation in Full-Stack Development and practical experience as an AI/ML intern. I am passionate about building scalable web applications, solving complex algorithmic problems, and applying machine learning techniques to real-world challenges. I continuously seek opportunities to deepen my expertise in emerging technologies and contribute to impactful projects.</h3>
 
 # 💫 About Me:
-🔭 Currently building: an AI-powered sound classifying system using Deep Learning  & refining Imagify, my full-stack image generator app<br>🌱 Exploring: React, Node.js, TensorFlow, LibROSA, and DSA<br>🧑‍💻 I enjoy building real-world projects and participating in hackathons<br>🤝 Open to collaboration on Open Source and real-world web/AI projects<br>📫 Reach me at: lovkeshbarowalia@gmail.com<br>🚀 Projects: My GitHub Repositories
+🔭 Currently building: An AI-powered sound classifying system using Deep Learning & refining Imagify, my full-stack image generator app<br>
+🌱 Exploring: React, Node.js, TensorFlow, LibROSA, and DSA<br>🧑‍💻 I enjoy building real-world projects and participating in hackathons<br>🤝 Open to collaboration on Open Source and real-world web/AI projects<br>📫 Reach me at: lovkeshbarowalia@gmail.com<br>🚀 Projects: My GitHub Repositories
 
 
 # 💻 Tech Stack:
