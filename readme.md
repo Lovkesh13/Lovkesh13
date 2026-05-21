@@ -1,7 +1,7 @@
 <!-- [![@Lovkesh13's Holopin board](https://holopin.me/Lovkesh13)](https://holopin.io/@Lovkesh13) -->
 
 <h1 align="left">Hi 👋, I'm Lovkesh Barowalia</h1>
-<h3 align="left">I am an aspiring Software Engineer with a solid foundation in Full-Stack Development and practical experience as an AI/ML intern. I am passionate about building scalable web applications, solving complex algorithmic problems, and applying machine learning techniques to real-world challenges. I continuously seek opportunities to deepen my expertise in emerging technologies and contribute to impactful projects.</h3>
+<h3 align="left">I am an aspiring Software Engineer with a solid foundation in Full-Stack Development and practical experience as an ML intern. I am passionate about building scalable web applications, solving complex algorithmic problems, and applying machine learning techniques to real-world challenges. I continuously seek opportunities to deepen my expertise in emerging technologies and contribute to impactful projects.</h3>
 
 # 💫 About Me:
 🔭 Currently building: An AI-powered sound classifying system using Deep Learning & refining Imagify, my full-stack image generator app<br>
